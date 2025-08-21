@@ -9,8 +9,6 @@ This guide explains how to install Splunk Enterprise on an Ubuntu Server (20.04/
 - Ubuntu Server 20.04 / 22.04 (64-bit)
 - Minimum 2 GB RAM (Recommended: 4 GB+)
 - 5 GB+ Disk space
-- Non-root user with `sudo` access
-- Internet connectivity
 
 ---
 
